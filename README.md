@@ -1,5 +1,7 @@
 # pocketool
-The official github page for pocketool!
+The official github page for pocketool! 
+_____________________________________________________________________________________
+[<img src="https://discordapp.com/api/guilds/486910899756728320/widget.png?style=shield">](https://discord.gg/d3zRBsc)
 _____________________________________________________________________________________
 *Pocketool* is a discord.py rewrite bot, made for utility. It's (planned) features are (projected to have) serverinfo, userinfo, roleinfo, basic moderation, server creation and management commands and templates, and raid protection.
 _____________________________________________________________________________________
